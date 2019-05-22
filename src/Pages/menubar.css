@@ -1,0 +1,15 @@
+.menubar {
+    background-color: #000 !important;
+    color: #fff !important;
+    text-decoration: none;
+    padding: 10px;
+}
+.menubar:active{
+    border-bottom: 2px solid blue;
+
+}
+
+nav li:hover{
+    border-bottom: 2px solid rgb(15, 182, 0);
+    background-color: #fff;
+}

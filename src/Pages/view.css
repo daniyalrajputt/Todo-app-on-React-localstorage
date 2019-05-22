@@ -1,0 +1,15 @@
+.form-control {
+    border-radius: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: flex-end;
+}
+.buttons input[type=button] {
+    margin: 2px;
+}
+
+.deleteAll{
+    justify-content: flex-end
+}
